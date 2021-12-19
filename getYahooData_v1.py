@@ -16,3 +16,8 @@ datayf = yf.Ticker('NVDA').history(period='5y')
 
 # Show info
 print(datayf.info())
+
+#%%
+
+
+
